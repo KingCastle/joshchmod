@@ -1,0 +1,16 @@
+{
+    "name": "josh/chmod",
+    "description": "chnage the permissions of your projects",
+    "type": "commandline-tool",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alireza Josheghani",
+            "email": "josheghani.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    }
+}
