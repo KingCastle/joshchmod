@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+    require 'josh.php';
+
+    $josh = new Josh;
+
+    echo $josh->handle_request($argv);
