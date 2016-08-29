@@ -6,7 +6,6 @@
     * @package : JoshChmod
     * @version : 0.0.1
     */
-
     class Josh
     {
         var $red;
